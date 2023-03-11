@@ -22,6 +22,7 @@ I'm currently working on developing trading algorithms, execution platforms, and
 - Developing trading algorithms
 - Execution platforms
 - AI-based trading strategies
+
 👯 I'm looking to collaborate on:
 - New technologies related to data extraction
 - Data mining
