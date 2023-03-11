@@ -19,7 +19,8 @@
 I'm currently working on developing trading algorithms, execution platforms, and AI-based trading strategies. I am also interested in collaborating on new technologies related to data extraction, data mining, machine learning (ML), deep learning (DL), and artificial intelligence (AI).
 
 🔭 I'm currently working on:
-- Developing trading algorithms
+- Trading algorithms
+- Role based strategies, including arbitrages, swaps, semi arbirtages, market making, liquidity providing etc.
 - Execution platforms
 - AI-based trading strategies
 
